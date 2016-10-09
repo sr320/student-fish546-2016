@@ -11,6 +11,7 @@ tags: fasta
 We have two draft genomes via BGI. I started out looking at the Geoduck genome.
 
 I downloaded it.
+
 ```
 !curl http://owl.fish.washington.edu/P_generosa_genome_assemblies_BGI/20160512/Panopea_generosa.scafSeq.zip \
 -o ../data/Panopea_generosa.scafSeq.zip 
