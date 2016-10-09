@@ -13,6 +13,7 @@ tags: CoGe
 One way to see the expressed part of the genome is to map RNA-seq reads back onto it (then make some feature tracks).
 I did this with Bowtie..
 
+
 ```
 !/Applications/bowtie2-2.2.9/bowtie2-build \
 ../data/Panopea_generosa-Scaff-70k.fa \
