@@ -1,0 +1,8 @@
+"Name","Mapping (BAM alignment) (SNPs)"
+"Description","Single nucleotide polymorphisms (determined by CoGe method)"
+"Genome","Panopea generosa (v0.0.1, id28824): scaffolds"
+"Source",""
+"Version","v001"
+"Types","VCF"
+"Notebooks",""
+"Restricted","yes"

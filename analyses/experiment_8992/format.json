@@ -1,0 +1,1 @@
+{"columns":[{"type":"key","name":"chr"},{"name":"start","type":"unsigned long"},{"name":"stop","type":"unsigned long"},{"name":"type","type":"key"},{"type":"text","name":"id"},{"name":"ref","type":"key"},{"type":"key","name":"alt"},{"name":"qual","type":"double"}]}

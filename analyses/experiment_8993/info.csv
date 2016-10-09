@@ -1,0 +1,8 @@
+"Name","Mapping (BAM alignment) (read depth)"
+"Description","Read depth per position"
+"Genome","Panopea generosa (v0.0.1, id28824): scaffolds"
+"Source","Roberts"
+"Version","v001"
+"Types","Expression"
+"Notebooks",""
+"Restricted","yes"
