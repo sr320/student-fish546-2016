@@ -72,8 +72,10 @@ https://genomevolution.org/r/lu3x
 https://genomevolution.org/r/lu42
 
 
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1DAAD2E6.png" alt="CoGe__My_Data_1DAAD2E6.png"/>
 
 
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/analyses_1DAAD378.png" alt="analyses_1DAAD378.png"/>
 
-
-
+---
+All data is available at <https://github.com/sr320/student-fish546-2016/tree/master/analyses>
