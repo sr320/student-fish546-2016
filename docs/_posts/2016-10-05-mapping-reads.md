@@ -50,3 +50,30 @@ I did this with Bowtie..
  ![settings](https://camo.githubusercontent.com/74593a3a672747976968ebd0b667c47718435b37/687474703a2f2f6561676c652e666973682e77617368696e67746f6e2e6564752f636e6964617269616e2f736b697463682f436f47655f5f4d795f446174615f31444134353539382e706e67)
  
  https://genomevolution.org/r/lslc
+ 
+ <img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__LoadExperiment_1DAACCFA.png" alt="CoGe__LoadExperiment_1DAACCFA.png"/>
+ 
+ <img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__ExperimentView_1DAACD70.png" alt="CoGe__ExperimentView_1DAACD70.png"/>
+ 
+ 
+ <img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__ExperimentView_1DAACDAF.png" alt="CoGe__ExperimentView_1DAACDAF.png"/>
+
+
+https://genomevolution.org/r/lu3x
+
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__ExperimentView_1DAAD14F.png" alt="CoGe__ExperimentView_1DAAD14F.png"/>
+
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/analyses_1DAAD1AF.png" alt="analyses_1DAAD1AF.png"/>
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1DAAD20C.png" alt="CoGe__My_Data_1DAAD20C.png"/>
+
+https://genomevolution.org/r/lu42
+
+
+
+
+
+
+
