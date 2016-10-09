@@ -41,7 +41,7 @@ I did this with Bowtie..
         116057 (0.06%) aligned >1 times
    0.51% overall alignment rate
    
- ```
+```
  
  I also tested out CoGe
  
