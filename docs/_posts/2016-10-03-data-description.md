@@ -30,11 +30,8 @@ END { printf "%s", n } \
 and decided I only wanted to focus on those contigs larger than 70k.
 
 ```
-! awk '!/^>/ { printf "%s", $0; n = "\n" } \
-/^>/ { print n $0; n = "" } \
-END { printf "%s", n } \
-' /Volumes/web-1/P_generosa_genome_assemblies_BGI/20160512/Panopea_generosa.scafSeq \
-> /Users/sr320/git-repos/student-fish546-2016/data/Panopea_generosa.fa
+!awk '!/^>/ { next } { getline seq } length(seq) >= 70000 { print $0 "\n" seq }' \
+../data/Panopea_generosa.fa > ../data/Panopea_generosa-Scaff-70k.fa
 
 !perl ../scripts/count_fasta.pl \
 -i 10000 \
