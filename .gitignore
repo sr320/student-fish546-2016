@@ -12,3 +12,15 @@ data/Panopea_generosa-Scaff-10k.fa
 data/Geoduck-transcriptome-v3.fa
 
 analyses/Geo_Pool_F-Pg-70k.sam
+
+data/uniprot_sprot.fasta
+
+*.phr
+
+*.psq
+
+*.pin
+
+data/uniprot_sprot.fasta.gz
+
+data/Oly-transcriptome-2k.fa
