@@ -24,3 +24,8 @@ data/uniprot_sprot.fasta
 data/uniprot_sprot.fasta.gz
 
 data/Oly-transcriptome-2k.fa
+
+analyses/SRR329007*
+analyses/SRR329007_mb_70k
+
+analyses/SRR329007_mb_70k.tab
