@@ -9,14 +9,15 @@ tags: genome,fastqc, multiqc,
 
 I inadvertently started with ducks but now have rebooted with the Olympia oyster genome. The first step will be just seeing what we have..
 
-What we expected
+What we expected    
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/project-olympia_oyster-genomic_contract_BGI_Olurida_denovo_F15FTSUSAT0327_pdf_at_master_·_RobertsLab_project-olympia_oyster-genomic_1DB64532.png" alt="project-olympia_oyster-genomic_contract_BGI_Olurida_denovo_F15FTSUSAT0327_pdf_at_master_·_RobertsLab_project-olympia_oyster-genomic_1DB64532.png"/>
 
+---
 Received: 20160127
 
 Format: FASTQ (Illumina HiSeq4000)
 
-Location: http://owl.fish.washington.edu/nightingales/O_lurida/
+Location: <http://owl.fish.washington.edu/nightingales/O_lurida/>
 
 Files:
 
@@ -49,7 +50,7 @@ Received: 20160314
 
 Formats: TXT, FASTA
 
-Location: http://owl.fish.washington.edu/O_lurida_genome_assemblies_BGI/20160314/
+Location: <http://owl.fish.washington.edu/O_lurida_genome_assemblies_BGI/20160314/>
 
 Files:
 
@@ -179,9 +180,9 @@ nightingales/O_lurida/*I1* \
 Seemed to have missed a few..
 `66,96`
 
-#MultiQC
+# MultiQC
 
-Full Report
+Full Report:    
 <http://owl.fish.washington.edu/halfshell/working-directory/16-10-19/multiqc_report.html#>
 
 ---
