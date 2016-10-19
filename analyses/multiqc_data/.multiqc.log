@@ -1,0 +1,52 @@
+[2016-10-18 18:47:50,620] multiqc                                            [DEBUG  ]  No MultiQC config found: /Users/sr320/anaconda/lib/python2.7/site-packages/multiqc-0.8-py2.7.egg/multiqc_config.yaml
+[2016-10-18 18:47:50,621] multiqc                                            [DEBUG  ]  No MultiQC config found: /Users/sr320/.multiqc_config.yaml
+[2016-10-18 18:47:50,621] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2016-10-18 18:47:50,621] multiqc                                            [DEBUG  ]  No MultiQC config found: /Users/sr320/anaconda/lib/python2.7/site-packages/multiqc-0.8-py2.7.egg/multiqc_config.yaml
+[2016-10-18 18:47:50,621] multiqc                                            [DEBUG  ]  No MultiQC config found: /Users/sr320/.multiqc_config.yaml
+[2016-10-18 18:47:50,621] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2016-10-18 18:47:50,621] multiqc                                            [DEBUG  ]  Command used: /Users/sr320/anaconda/bin/multiqc /Users/sr320/git-repos/student-fish546-2016/analyses
+[2016-10-18 18:47:50,621] multiqc                                            [DEBUG  ]  Could not connect to multiqc.info for version check
+[2016-10-18 18:47:50,621] multiqc                                            [INFO   ]  This is MultiQC v0.8
+[2016-10-18 18:47:50,621] multiqc                                            [DEBUG  ]  Command     : /Users/sr320/anaconda/bin/multiqc /Users/sr320/git-repos/student-fish546-2016/analyses
+[2016-10-18 18:47:50,622] multiqc                                            [DEBUG  ]  Working dir : /Users/sr320/git-repos/student-fish546-2016/analyses
+[2016-10-18 18:47:50,622] multiqc                                            [INFO   ]  Template    : default
+[2016-10-18 18:47:50,622] multiqc                                            [INFO   ]  Searching '/Users/sr320/git-repos/student-fish546-2016/analyses'
+[2016-10-18 18:47:50,622] multiqc                                            [DEBUG  ]  Analysing modules: gatk, quast, snpeff, qualimap, bcftools, featureCounts, methylQA, rseqc, picard, preseq, samblaster, samtools, bamtools, bismark, hicup, salmon, kallisto, star, tophat, bowtie2, bowtie1, cutadapt, trimmomatic, skewer, fastq_screen, fastqc
+[2016-10-18 18:47:50,623] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /var/folders/32/gn3lrlb11ds54r71vtpk47pm0000gn/T/tmpURspjN
+[2016-10-18 18:47:50,644] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: .DS_Store
+[2016-10-18 18:47:50,732] multiqc                                            [DEBUG  ]  Ignoring file as is encoded: experiment_Mapping_BAM_alignment_read_depth.tar.gz
+[2016-10-18 18:47:50,732] multiqc                                            [DEBUG  ]  Ignoring file as is encoded: experiment_Mapping_BAM_alignment_SNPs.tar.gz
+[2016-10-18 18:47:50,735] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: snps.vcf
+[2016-10-18 18:47:50,737] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: alignment.bam.bed.normalized.bed
+[2016-10-18 18:47:51,199] multiqc.modules.gatk.gatk                          [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:51,214] multiqc.modules.quast.quast                        [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:51,666] multiqc.modules.snpeff.snpeff                      [DEBUG  ]  Could not find any data in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:51,730] multiqc.modules.qualimap.qualimap                  [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:52,167] multiqc.modules.bcftools.bcftools                  [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:52,179] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:52,188] multiqc.modules.methylQA.methylQA                  [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:54,120] multiqc.modules.rseqc.rseqc                        [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:57,701] multiqc.modules.picard.picard                      [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:58,118] multiqc.modules.preseq.preseq                      [DEBUG  ]  Could not find any preseq data in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:58,534] multiqc.modules.samblaster.samblaster              [DEBUG  ]  Could not find any data in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:59,467] multiqc.modules.samtools.samtools                  [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:47:59,958] multiqc.modules.bamtools.bamtools                  [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:00,002] multiqc.modules.bismark.bismark                    [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:00,016] multiqc.modules.hicup.hicup                        [DEBUG  ]  Could not find any HiCUP data in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:00,039] multiqc.modules.salmon.salmon                      [DEBUG  ]  Could not find any Salmon data in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:00,533] multiqc.modules.kallisto.kallisto                  [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:00,545] multiqc.modules.star.star                          [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:00,558] multiqc.modules.tophat.tophat                      [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:01,017] multiqc.modules.bowtie2.bowtie2                    [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:01,424] multiqc.modules.bowtie1.bowtie1                    [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:01,843] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:02,291] multiqc.modules.trimmomatic.trimmomatic            [DEBUG  ]  Could not find any Trimmomatic data in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:02,743] multiqc.modules.skewer.skewer                      [DEBUG  ]  Could not find any data in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:02,753] multiqc.modules.fastq_screen.fastq_screen          [DEBUG  ]  Could not find any reports in ('/Users/sr320/git-repos/student-fish546-2016/analyses',)
+[2016-10-18 18:48:04,822] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 16 reports
+[2016-10-18 18:48:05,751] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2016-10-18 18:48:05,752] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2016-10-18 18:48:05,752] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/32/gn3lrlb11ds54r71vtpk47pm0000gn/T/tmpURspjN/multiqc_data/multiqc_fastqc.txt' to '/Users/sr320/git-repos/student-fish546-2016/analyses/multiqc_data'
+[2016-10-18 18:48:05,752] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/32/gn3lrlb11ds54r71vtpk47pm0000gn/T/tmpURspjN/multiqc_data/multiqc_general_stats.txt' to '/Users/sr320/git-repos/student-fish546-2016/analyses/multiqc_data'
+[2016-10-18 18:48:05,753] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/32/gn3lrlb11ds54r71vtpk47pm0000gn/T/tmpURspjN/multiqc_data/multiqc_sources.txt' to '/Users/sr320/git-repos/student-fish546-2016/analyses/multiqc_data'
+[2016-10-18 18:48:06,190] multiqc                                            [INFO   ]  MultiQC complete
