@@ -3,7 +3,7 @@ layout: post
 title: Oly Read Check
 date: '2016-10-19'
 categories: Data
-tags: genome,fastqc, multiqc, 
+tags: genome, fastqc, multiqc, 
 
 ---
 
