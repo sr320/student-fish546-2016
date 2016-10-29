@@ -59,3 +59,14 @@ Then a little perl to transform to gff
 [GFF file](https://raw.githubusercontent.com/sr320/student-fish546-2016/master/analyses/Olyv6_blastn-Scaff-30k.gff)
 
 [Draft Genome File](https://raw.githubusercontent.com/sr320/student-fish546-2016/master/data/Ostrea_lurida-Scaff-30k.fa)
+
+---
+ps     
+to get annoation from SP   
+```sql
+SELECT * FROM [roberts.sbr@gmail.com].[Olyv6_blastx_sprot_2016_09]blast
+  left join
+  [roberts.sbr@gmail.com].[uniprot-all0916]uni
+  on
+  blast.Column3 = uni.Column1
+```  
