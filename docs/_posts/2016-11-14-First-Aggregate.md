@@ -184,7 +184,8 @@ http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/2bRAD-BSmatch.ba
 
 In IGV you can create a session file, and assuming all the files are on a public web server, they should render for you too!
 
-Just take this url
+Just take this url    
+
 `http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/igv-session_2016-11-14.xml`
 
 
