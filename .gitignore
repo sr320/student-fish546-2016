@@ -51,3 +51,17 @@ data/Ostrea_lurida-Scaff-10k.nin
 data/Ostrea_lurida-Scaff-10k-index.fa
 
 data/Ostrea_lurida-Scaff-10k.fa.fai
+
+data/CCGG-fuzz-Ostrea_lurida-Scaff-10k.gff
+
+data/CCGG-fuzz-Ostrea_lurida-Scaff-10k.gff.idx
+
+jupyter/outfile
+
+jupyter/outfile.gff
+
+jupyter/ccgg.gff
+
+data/CG-fuzz-Ostrea_lurida-Scaff-10k.gff.idx
+
+data/CG-fuzz-Ostrea_lurida-Scaff-10k.gff
