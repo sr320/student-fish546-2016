@@ -179,7 +179,8 @@ http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/2bRAD-BSmatch.ba
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/IGV_1DDA1F41.png" alt="IGV_1DDA1F41.png"/>
 
 ---
-## But wait! you want to see all this for yourself?
+
+##But wait! you want to see all this for yourself?
 
 In IGV you can create a session file, and assuming all the files are on a public web server, they should render for you too!
 
