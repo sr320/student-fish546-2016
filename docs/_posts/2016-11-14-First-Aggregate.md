@@ -33,7 +33,8 @@ As you can see Sean's appear more robust
 
 The RNA-seq tracks were [generated](https://github.com/sr320/student-fish546-2016/blob/master/jupyter/02.6-Oly-Bowtie.ipynb) by aligning with bowtie, and creating a sorted, indexed bam.
 
-ie
+ie    
+
 ```
 !/Applications/bioinfo/bowtie2-2.2.4/bowtie2 \
 -x ../data/Ostrea_lurida-Scaff-10k-bowtie-index \
@@ -46,7 +47,8 @@ ie
 | samtools sort -o /Volumes/caviar/wd/2016-11-11/bw-106A_Female_Mix_GATCAG_L004.bam
 !samtools index /Volumes/caviar/wd/2016-11-11/bw-106A_Female_Mix_GATCAG_L004.bam
 ```
-with output such as 
+
+with output such as      
 
 ```
 39823239 reads; of these:
