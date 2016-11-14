@@ -180,7 +180,7 @@ http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/2bRAD-BSmatch.ba
 
 ---
 
-##But wait! you want to see all this for yourself?
+## But wait! you want to see all this for yourself?   
 
 In IGV you can create a session file, and assuming all the files are on a public web server, they should render for you too!
 
